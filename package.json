@@ -1,0 +1,21 @@
+{
+  "name": "pweb2-eventos-equipexx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Melissa Carolyne Alves de Oliveira",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "titulo": "Minicurso React",
+  "descricao": "Introdução ao React",
+  "vagas": 20,
+  "modalidade": "remoto",
+  "cargaHoraria": 8
+}
